@@ -105,8 +105,6 @@ npm start
 ---
 
 ### Notes
-
-* Do **not commit `node_modules`** — `.gitignore` is included.
 * Make sure to replace the **Twelve Data API key** in `backend/app.js` with your own key.
 * CORS is enabled in backend to allow frontend requests.
 
