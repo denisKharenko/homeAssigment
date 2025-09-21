@@ -15,7 +15,6 @@ function App() {
 
   return (
     <div style={{ padding: "20px", fontFamily: "Arial" }}>
-      <h1>📈 Stock Portfolio Calculator</h1>
       <StockForm onResults={handleResults} />
       {results && <Results data={results} />}
       <History history={history} />
