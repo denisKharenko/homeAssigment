@@ -12,7 +12,7 @@ router.post('/', async (req, res) => {
       return res.status(400).json({ error: "No stocks sent" });
     }
 
-    const apiKey = "<YOUR_API_KEY>"; // or use your own key
+    const apiKey = "<YOUR_API_KEY>"; // Replace with your Twelve Data API key
     const results = [];
     const errors = [];
 
