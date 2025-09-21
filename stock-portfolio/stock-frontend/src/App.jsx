@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import StockForm from "./components/StockForm";
-import Results from "./components/ResultList";
+import Results from "./components/Results";
 import History from "./components/History";
 
 function App() {
