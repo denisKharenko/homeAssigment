@@ -98,7 +98,7 @@ npm start
 ### 4. Using the App
 
 1. Enter the stock symbol (e.g., `AAPL`) and quantity (positive integer).
-2. Click **"Calculate"** to fetch prices and calculate totals.
+2. Click **"Check Stocks"** to fetch prices and calculate totals.
 3. See results displayed below the form.
 4. History of previous requests is maintained with timestamps.
 
