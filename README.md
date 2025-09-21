@@ -105,7 +105,7 @@ npm start
 ---
 
 ### Notes
-* Make sure to replace the **Twelve Data API key** in `backend/app.js` with your own key.
+* Make sure to replace the **Twelve Data API key** in `backend/routes/stock.js` with your own key.
 * CORS is enabled in backend to allow frontend requests.
 
 ---
