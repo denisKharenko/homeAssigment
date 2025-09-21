@@ -114,4 +114,4 @@ npm start
 
 * Auto-complete for stock symbols from API.
 * Clear history button.
-* caching of frequent stock prices
+* Caching of frequent stock prices
